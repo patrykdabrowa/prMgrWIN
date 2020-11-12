@@ -1,0 +1,10 @@
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\bin\Debug\PracaMagisterska.exe.config
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\bin\Debug\PracaMagisterska.exe
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\bin\Debug\PracaMagisterska.pdb
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\obj\Debug\PracaMagisterska.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\obj\Debug\PracaMagisterska.Form1.resources
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\obj\Debug\PracaMagisterska.Properties.Resources.resources
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\obj\Debug\PracaMagisterska.csproj.GenerateResource.cache
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\obj\Debug\PracaMagisterska.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\obj\Debug\PracaMagisterska.exe
+C:\Users\patry\source\repos\PracaMagisterska\PracaMagisterska\obj\Debug\PracaMagisterska.pdb
